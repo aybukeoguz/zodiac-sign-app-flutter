@@ -22,7 +22,7 @@ Flutter ile geliştirilmiş, kullanıcıya burç bilgilerini sunan mobil uygulam
 ## Ekran Görüntüleri
 <img src="https://github.com/aybukeoguz/zodiac-sign-app-flutter/assets/80958621/acfcc243-3165-4d7a-b666-bd62433a4f08" width="300">
 
-<img src="https://github.com/aybukeoguz/zodiac-sign-app-flutter/assets/80958621/d69a0c81-8969-4b58-b385-cb92fdb3db53" width="300">
+<img src="https://github.com/aybukeoguz/zodiac-sign-app-flutter/assets/80958621/d69a0c81-8969-4b58-b385-cb92fdb3db53" width="300"><br>
 
 <img src="https://github.com/aybukeoguz/zodiac-sign-app-flutter/assets/80958621/bcf2c86b-01ab-45b7-b585-bd590fdf54d4" width="300">
 
