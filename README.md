@@ -1,12 +1,6 @@
 # Burç Rehberi Uygulaması
 
 Flutter ile geliştirilmiş, kullanıcıya burç bilgilerini sunan mobil uygulama.
-## İçerikler
-
-- [Özellikler](#özellikler)
-- [Kurulum](#kurulum)
-- [Kullanım](#kullanım)
-- [Ekran Görüntüleri](#ekrangörüntüsü)
 
 ## Özellikler
 - Burçların genel özellikleri.
