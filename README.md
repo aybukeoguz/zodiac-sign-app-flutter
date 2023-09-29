@@ -8,10 +8,10 @@ Flutter ile geliştirilmiş, kullanıcıya burç bilgilerini sunan mobil uygulam
 
 ## Kurulum
 
-Flutter SDK'nın kurulu olduğundan emin olun.
-Depoyu klonlayın: 'git clone [repo bağlantısı]'.
-Bağımlılıkları yükleyin: 'flutter pub get'.
-Uygulamayı çalıştırın: 'flutter run'.
+1. Flutter SDK'nın kurulu olduğundan emin olun.
+2. Depoyu klonlayın: `git clone [repo bağlantısı]`.
+3. Bağımlılıkları yükleyin: `flutter pub get`.
+4. Uygulamayı çalıştırın: `flutter run`.
 
 ## Kullanılan Teknolojiler
 
