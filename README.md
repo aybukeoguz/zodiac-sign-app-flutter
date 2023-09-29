@@ -26,10 +26,12 @@ Uygulamayı çalıştırın: 'flutter run'.
 - Dart
 
 ## Ekran Görüntüleri
-![Alternatif Metin]( https://imgur.com/yslliY3)
-![](https://imgur.com/DzEeNcn)
-![](https://imgur.com/NLqzvKL)
+![localhost_49663_(iPhone SE)](https://github.com/aybukeoguz/zodiac-sign-app-flutter/assets/80958621/45b317f3-f7e8-444d-ade7-65325e2639c0)
 
+
+![burç](https://github.com/aybukeoguz/zodiac-sign-app-flutter/assets/80958621/ae7a0561-de94-4700-af11-4dab932b1be8)
+
+![burç2](https://github.com/aybukeoguz/zodiac-sign-app-flutter/assets/80958621/88948bcf-bdcc-440e-9820-ff98c8e5438a)
 
 ## Kullanım
 
