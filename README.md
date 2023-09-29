@@ -26,9 +26,9 @@ Uygulamayı çalıştırın: 'flutter run'.
 - Dart
 
 ## Ekran Görüntüleri
-<img src= https://imgur.com/yslliY3>
-<img src= https://imgur.com/DzEeNcn>
-<img src= https://imgur.com/NLqzvKL>
+![Alternatif Metin]( https://imgur.com/yslliY3)
+![](https://imgur.com/DzEeNcn)
+![](https://imgur.com/NLqzvKL)
 
 
 ## Kullanım
