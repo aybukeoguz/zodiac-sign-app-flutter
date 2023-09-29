@@ -1,16 +1,12 @@
 # Burç Rehberi Uygulaması
 
 Flutter ile geliştirilmiş, kullanıcıya burç bilgilerini sunan mobil uygulama.
-
-![Uygulamadan Ekran Görüntüsü](ekran-goruntusu-linki.jpg)
-
 ## İçerikler
 
 - [Özellikler](#özellikler)
 - [Kurulum](#kurulum)
 - [Kullanım](#kullanım)
-- [Katkıda Bulunma](#katkıda-bulunma)
-- [Lisans](#lisans)
+- [Ekran Görüntüleri](#ekrangörüntüsü)
 
 ## Özellikler
 - Burçların genel özellikleri.
@@ -29,7 +25,10 @@ Uygulamayı çalıştırın: 'flutter run'.
 - VS Code
 - Dart
 
-##Ekran Görüntüleri
+## Ekran Görüntüleri
+https://imgur.com/yslliY3
+https://imgur.com/DzEeNcn
+https://imgur.com/NLqzvKL
 
 
 ## Kullanım
