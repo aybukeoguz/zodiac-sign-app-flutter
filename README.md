@@ -20,9 +20,9 @@ Uygulamayı çalıştırın: 'flutter run'.
 - Dart
 
 ## Ekran Görüntüleri
-<img src="https://github.com/aybukeoguz/zodiac-sign-app-flutter/raw/main/assets/80958621/45b317f3-f7e8-444d-ade7-65325e2639c0" width="300"><br>
-<img src="https://github.com/aybukeoguz/zodiac-sign-app-flutter/raw/main/assets/80958621/ae7a0561-de94-4700-af11-4dab932b1be8" width="300"><br>
-<img src="https://github.com/aybukeoguz/zodiac-sign-app-flutter/raw/main/assets/80958621/88948bcf-bdcc-440e-9820-ff98c8e5438a" width="300"><br>
+![localhost_49663_(iPhone SE)](https://github.com/aybukeoguz/zodiac-sign-app-flutter/assets/80958621/acfcc243-3165-4d7a-b666-bd62433a4f08)
+![burç2](https://github.com/aybukeoguz/zodiac-sign-app-flutter/assets/80958621/d69a0c81-8969-4b58-b385-cb92fdb3db53)
+![burç](https://github.com/aybukeoguz/zodiac-sign-app-flutter/assets/80958621/bcf2c86b-01ab-45b7-b585-bd590fdf54d4)
 
 ## Kullanım
 
